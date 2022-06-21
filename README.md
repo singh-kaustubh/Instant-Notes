@@ -1,0 +1,2 @@
+# Instant-Notes
+A full stack MERN project developed via react and express for frontend and backend. It facilitates a fully responsive web application that enables user based note and text storage with facility of user login and registration . It involves the use of bcrypt for password hashing and Bootstrap, MD5/MUI and  CSS for frontend along with react redux to manage states of various components.
